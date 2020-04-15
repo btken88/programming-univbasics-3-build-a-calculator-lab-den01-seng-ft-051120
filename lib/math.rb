@@ -1,17 +1,20 @@
 def addition(num1, num2)
-
+  added = num1 + num2
+  return added
 end
 
 def subtraction(num1, num2)
-
+  subtracted = num1 - num2
+  return subtracted
 end
 
 def division(num1, num2)
-
+  divided = num1 / num2
+  return divided
 end
 
 def multiplication(num1, num2)
-
+  
 end
 
 def modulo(num1, num2)
